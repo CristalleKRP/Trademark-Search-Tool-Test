@@ -15,3 +15,6 @@ Currently, the tool includes a limited number of trademarks (e.g., **Nike, Adida
 
 ## 🎯 Future Improvements
 Add a larger trademark database
+
+### Preview of the Trademark Search Tool
+![Trademark Tool](https://github.com/user-attachments/assets/c9035f4b-ede4-4d43-9951-54ba7be02071)
